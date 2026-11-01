@@ -1,19 +1,44 @@
 # Global Study AI
 
-A new Flutter project created with FlutLab - https://flutlab.io
+## Project Overview
 
-## Getting Started
+Global Study AI is a mobile application prototype designed to help students explore international higher education opportunities based on their academic qualifications, eligibility criteria, and career goals.
 
-A few resources to get you started if this is your first Flutter project:
+## Main Objectives
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+* Help students explore study opportunities in different countries.
+* Provide information about admission requirements.
+* Help students understand funding and scholarship options.
+* Provide guidance through academic and career roadmaps.
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Prototype Features
 
-## Getting Started: FlutLab - Flutter Online IDE
+* Home screen
+* Study program exploration
+* Program details
+* Saved programs
+* Academic roadmap
+* User preferences
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+## Technologies Used
+
+* Flutter
+* Dart
+* Visual Studio Code
+* GitHub
+
+## Current Project Status
+
+This project is currently in its initial mobile prototype stage. The interface and sample functionality have been developed. Advanced features, including comprehensive study-program data and intelligent eligibility recommendations, are planned for future development.
+
+## Project Authors
+
+* Shazia Sattar
+* Zaneera Shah
+
+## Future Scope
+
+* AI-based eligibility recommendations.
+* Scholarship and funding matching.
+* Expanded international university database.
+* Personalized academic roadmaps.
